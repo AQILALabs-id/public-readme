@@ -131,10 +131,6 @@ Keunggulan ATHENA:
 
 # Screenshots
 
-Berikut adalah beberapa tampilan antarmuka ATHENA selama proses pengembangan.
-
-# Screenshots
-
 Berikut merupakan beberapa tampilan antarmuka ATHENA selama proses pengembangan. Seluruh tampilan dirancang menggunakan **Jetpack Compose** dengan pendekatan **Material Design 3**, berfokus pada kemudahan penggunaan, konsistensi antarmuka, dan pengalaman pengguna yang modern.
 
 ---
