@@ -133,28 +133,98 @@ Keunggulan ATHENA:
 
 Berikut adalah beberapa tampilan antarmuka ATHENA selama proses pengembangan.
 
-<p align="center">
-  <img src="Screenshots/Home.jpg" width="220">
-  <img src="Screenshots/Chat.jpg" width="220">
-</p>
+# Screenshots
+
+Berikut merupakan beberapa tampilan antarmuka ATHENA selama proses pengembangan. Seluruh tampilan dirancang menggunakan **Jetpack Compose** dengan pendekatan **Material Design 3**, berfokus pada kemudahan penggunaan, konsistensi antarmuka, dan pengalaman pengguna yang modern.
+
+---
+
+### Home
+
+Halaman utama ATHENA yang menjadi pusat navigasi menuju seluruh fitur aplikasi, termasuk AI Assistant, Kalkulasi Presisi, bantuan, dan pengaturan.
 
 <p align="center">
-  <img src="Screenshots/Homechat.jpg" width="220">
-  <img src="Screenshots/Kalkulasi.jpg" width="220">
+  <img src="Screenshots/Home.jpg" width="260" alt="ATHENA Home">
 </p>
 
-<p align="center">
-  <img src="Screenshots/Material.jpg" width="220">
-  <img src="Screenshots/Materials.jpg" width="220">
-</p>
+---
+
+### AI Chat
+
+Halaman percakapan utama untuk berinteraksi dengan Artificial Intelligence. Pengguna dapat mengajukan pertanyaan, berdiskusi, meminta ringkasan, maupun memperoleh berbagai informasi secara cepat.
 
 <p align="center">
-  <img src="Screenshots/Help.jpg" width="220">
-  <img src="Screenshots/About.jpg" width="220">
+  <img src="Screenshots/Chat.jpg" width="260" alt="ATHENA Chat">
 </p>
 
+---
+
+### Home Chat
+
+Tampilan awal ruang percakapan sebelum percakapan dimulai, menampilkan identitas ATHENA beserta akses cepat ke berbagai fungsi AI.
+
 <p align="center">
-  <img src="Screenshots/Settings.jpg" width="220">
+  <img src="Screenshots/Homechat.jpg" width="260" alt="ATHENA Home Chat">
+</p>
+
+---
+
+### Precision Calculator
+
+Menu utama fitur **Kalkulasi Presisi** yang dirancang untuk membantu berbagai kebutuhan perhitungan teknis dan estimasi pekerjaan.
+
+<p align="center">
+  <img src="Screenshots/Kalkulasi.jpg" width="260" alt="Precision Calculator">
+</p>
+
+---
+
+### Material Calculator
+
+Modul perhitungan kebutuhan material bangunan untuk membantu estimasi volume pekerjaan dan kebutuhan material secara lebih praktis.
+
+<p align="center">
+  <img src="Screenshots/Material.jpg" width="260" alt="Material Calculator">
+</p>
+
+---
+
+### Calculator Modules
+
+Daftar berbagai modul perhitungan yang tersedia, seperti material bangunan, furniture, kitchen set, serta modul kalkulasi lainnya yang akan terus dikembangkan.
+
+<p align="center">
+  <img src="Screenshots/Materials.jpg" width="260" alt="Calculator Modules">
+</p>
+
+---
+
+### Help Center
+
+Halaman bantuan yang menyediakan petunjuk penggunaan aplikasi, informasi fitur, serta panduan bagi pengguna baru.
+
+<p align="center">
+  <img src="Screenshots/Help.jpg" width="260" alt="Help Center">
+</p>
+
+---
+
+### About
+
+Halaman informasi aplikasi yang berisi profil ATHENA, informasi pengembang, serta identitas AQILA Labs.
+
+<p align="center">
+  <img src="Screenshots/About.jpg" width="260" alt="About ATHENA">
+</p>
+
+---
+
+### Settings
+
+Halaman pengaturan untuk menyesuaikan pengalaman penggunaan aplikasi, termasuk tema, preferensi tampilan, dan konfigurasi lainnya.
+
+<p align="center">
+  <img src="Screenshots/Settings.jpg" width="260" alt="Settings">
 </p>
 
 ---
