@@ -313,6 +313,11 @@ Dilarang menyalin, memodifikasi, mendistribusikan, atau menggunakan sebagian mau
 
 ---
 
+This repository is protected under an **All Rights Reserved** license.
+See the [LICENSE](LICENSE) file for complete terms and conditions.
+
+---
+
 # Contact
 
 **AQILA Labs**
